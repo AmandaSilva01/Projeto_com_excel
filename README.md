@@ -2,14 +2,21 @@
  Descrição
 Este projeto foi desenvolvido como parte de um desafio para aplicação de fórmulas e formatação condicional no Excel. O objetivo principal é identificar o perfil de investidor com base no tempo de investimento informado em uma tabela de cenários.
 
+
 📊 Estrutura da Planilha
 A planilha contém uma tabela com os seguintes dados:
 
+
 Cenários: Pergunta "Quanto em X meses?"
+
 Patrimônio Acumulado: Valor projetado ao final do período.
+
 Rendimento: Valor total do rendimento obtido no período.
+
 Exemplo de dados:
+
 Cenários	Patrimônio Acumulado	Rendimento
+
 Quanto em 24 meses?	R$ 2.547,41	R$ 157,18
 Quanto em 60 meses?	R$ 7.007,57	R$ 432,37
 Quanto em 120 meses?	R$ 16.540,01	R$ 1.020,52
